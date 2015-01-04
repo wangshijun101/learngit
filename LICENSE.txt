@@ -1,5 +1,0 @@
-增加LICENSE.TXT
-增加一行内容！
-add 1 line 
-add 2 line
-add 3 line
